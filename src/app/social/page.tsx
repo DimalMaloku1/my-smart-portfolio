@@ -1,5 +1,5 @@
-import { H1 } from "../components/ui/H1";
-import { H2 } from "../components/ui/H2";
+import { H1 } from "@/components/ui/H1";
+import { H2 } from "@/components/ui/H2";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

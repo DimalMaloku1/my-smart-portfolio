@@ -1,8 +1,8 @@
 import { Metadata } from "next";
-import { H1 } from "./components/ui/H1";
+import { H1 } from "@/components/ui/H1";
 import Image from "next/image";
-import me from "./assets/me.jpg";
-import { H2 } from "./components/ui/H2";
+import me from "@/assets/me.jpg";
+import { H2 } from "@/components/ui/H2";
 import { Bot } from "lucide-react";
 
 export const metadata: Metadata = {
